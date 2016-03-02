@@ -1,11 +1,11 @@
 {
   "name": "grunt-crx-repo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The best Grunt plugin ever.",
   "author": "Nick Collier <nicholas.james.collier@gmail.com>",
   "repository": "EnISeeK/grunt-crx-repo.git",
   "licenses": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "archiver": "^0.21.0",
     "request": "^2.69.0",
     "temp": "^0.8.3"
